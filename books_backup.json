@@ -1,0 +1,52 @@
+[
+    {
+        "title": "The discovery of India",
+        "author": "Jawaharlal Nehru",
+        "isbn": "9780143031031",
+        "year": "1946",
+        "available": false,
+        "borrowed_by": "MEM002",
+        "due_date": "2026-07-25",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "India after Gandhi",
+        "author": "Ramachandra Guha",
+        "isbn": "9780330393908",
+        "year": "2007",
+        "available": false,
+        "borrowed_by": "MEM004",
+        "due_date": "2026-07-25",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "Gitanjali",
+        "author": "Rabindranath Tagore",
+        "isbn": "9789382563792",
+        "year": "1910",
+        "available": false,
+        "borrowed_by": "MEM002",
+        "due_date": "2026-07-25",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "Train to Pakistan",
+        "author": "Khushwant Singh",
+        "isbn": "9780143065883",
+        "year": "1956",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "The God of small things",
+        "author": "Arundhati Roy",
+        "isbn": "9780679457312",
+        "year": "1997",
+        "available": false,
+        "borrowed_by": "MEM001",
+        "due_date": "2026-07-25",
+        "date_added": "2026-07-11"
+    }
+]

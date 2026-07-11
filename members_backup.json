@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Bhowmik",
+        "member_id": "MEM004",
+        "borrowed_books": [
+            "9780330393908"
+        ]
+    },
+    {
+        "name": "Ramesh Kumar",
+        "member_id": "MEM001",
+        "borrowed_books": [
+            "9780679457312"
+        ]
+    },
+    {
+        "name": "Ranjith",
+        "member_id": "MEM002",
+        "borrowed_books": [
+            "9789382563792",
+            "9780143031031"
+        ]
+    },
+    {
+        "name": "Harsha",
+        "member_id": "MEM003",
+        "borrowed_books": []
+    }
+]

@@ -1,0 +1,14 @@
+# Python version
+python>=3.10
+
+# Basic data handling
+pandas>=2.0.0
+
+# Optional visualization (for charts/reports)
+matplotlib>=3.7.0
+
+# Testing
+unittest-xml-reporting>=3.2.0  
+pytest>=7.3.0                  
+
+              
